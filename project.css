@@ -92,3 +92,14 @@ body{
   display: block;
 }
 
+.content{
+  text-align: center;
+}
+
+.content h2{
+ color: #fff;
+}
+
+.content p{
+ color: #fff; 
+}
