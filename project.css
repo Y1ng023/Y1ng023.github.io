@@ -57,7 +57,7 @@ body{
 }
 
 .image{
- margin-top: -132px; 
+ margin-top: -412px; 
 }
 
 .images{
@@ -76,4 +76,5 @@ body{
  color: #fff; 
  font-size: 1.5em;
  margin-left: 330px;
+ margin-top: 20px;
 }
