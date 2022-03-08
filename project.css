@@ -5,7 +5,6 @@
   outline: none;
   font-family: 'Poppins', sans-serif;
   user-select: none;
-  overflow-x: hidden;
 }
 body{
   height: 100vh;
@@ -120,13 +119,13 @@ body{
     font-size: 2em;
     position: absolute;
     left: 28%;
-    top: 30%;
+    top: 32%;
  }
  .content p{
     color: #fff;
     font-size: 2em;
     position: absolute;
-    top: 50%;
+    top: 42%;
     left: 22%;
  }
   .image{
