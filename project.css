@@ -152,34 +152,39 @@ body{
     margin-top: 600px;
     position: absolute;
     top: 5%;
+    left: -73%;
   }
   .about1{
     color: #fff;
     font-size: 1.5em;
-    margin-top: 620px;
+    margin-top: 800px;
     position: absolute;
     top: 5%;
+    left: -73%;
   }
   .about2{
     color: #fff;
     font-size: 1.5em;
-    margin-top: 640px;
+    margin-top: 1000px;
     position: absolute;
     top: 5%;
+    left: -73%;
   }
   .about3{
     color: #fff;
     font-size: 1.5em;
-    margin-top: 660px;
+    margin-top: 1200px;
     position: absolute;
     top: 5%;
+    left: -73%;
   }
   .about4{
     color: #fff;
     font-size: 1.5em;
-    margin-top: 680px;
+    margin-top: 14000px;
     position: absolute;
     top: 5%;
+    left: -73%;
   }
   
 }
