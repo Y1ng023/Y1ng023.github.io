@@ -80,6 +80,11 @@ body{
  margin-top: 20px;
 }
 
+.hi{
+   position: absolute; 
+   top: 65%;
+}
+
 @media (max-width: 991px){
  .UI header .logo{
   font-weight: 700;
