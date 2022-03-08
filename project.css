@@ -80,21 +80,6 @@ body{
  margin-top: 20px;
 }
 
-.hi{
-    border: 2px solid #fff;
-    color: #000;
-    background: #fff;
-    border-radius: 50px;
-    padding: 15px 50px;
-    font-size: 1.15rem;
-    outline: none;
-    font-weight: 500;
-    cursor: pointer;
-    text-decoration: none;
-    position: absolute; 
-    top: 65%;
-}
-
 @media (max-width: 991px){
  .UI header .logo{
   font-weight: 700;
