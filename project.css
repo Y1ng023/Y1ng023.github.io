@@ -152,7 +152,7 @@ body{
     margin-top: 600px;
     position: absolute;
     top: 5%;
-    left: -73%;
+    text-align: center;
   }
   .about1{
     color: #fff;
@@ -160,7 +160,7 @@ body{
     margin-top: 750px;
     position: absolute;
     top: 5%;
-    left: -73%;
+    text-align: center;
   }
   .about2{
     color: #fff;
@@ -168,7 +168,7 @@ body{
     margin-top: 900px;
     position: absolute;
     top: 5%;
-    left: -73%;
+    text-align: center;
   }
   .about3{
     color: #fff;
@@ -176,7 +176,7 @@ body{
     margin-top: 1050px;
     position: absolute;
     top: 5%;
-    left: -73%;
+    text-align: center;
   }
   .about4{
     color: #fff;
@@ -184,7 +184,7 @@ body{
     margin-top: 1200px;
     position: absolute;
     top: 5%;
-    left: -73%;
+    text-align: center;
   }
   
 }
