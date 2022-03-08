@@ -80,6 +80,31 @@ body{
  margin-top: 20px;
 }
 
+.about1{
+ color: #fff; 
+ font-size: 1.5em;
+ margin-left: 330px;
+ margin-top: 40px;
+}
+.about2{
+ color: #fff; 
+ font-size: 1.5em;
+ margin-left: 330px;
+ margin-top: 60px;
+}
+.about3{
+ color: #fff; 
+ font-size: 1.5em;
+ margin-left: 330px;
+ margin-top: 80px;
+}
+.about4{
+ color: #fff; 
+ font-size: 1.5em;
+ margin-left: 330px;
+ margin-top: 100px;
+}
+
 @media (max-width: 991px){
  .UI header .logo{
   font-weight: 700;
