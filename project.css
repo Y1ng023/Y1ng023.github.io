@@ -223,8 +223,14 @@ body{
    margin-left: 60px;
   }
   .thanks{
+   margin-left: -60px
+  }
+  .friends{
    position: absolute;
-   left: -20%;
+   top: 50%;
+   left: 15%;
+    width: 300px;
+    height: 300px;
   }
   
 }
