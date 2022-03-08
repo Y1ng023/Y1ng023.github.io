@@ -57,7 +57,8 @@ body{
 }
 
 .image{
- margin-top: -412px; 
+ position: absolute;
+ top: 0;
 }
 
 .images{
