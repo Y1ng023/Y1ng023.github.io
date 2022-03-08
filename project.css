@@ -79,3 +79,33 @@ body{
  margin-left: 330px;
  margin-top: 20px;
 }
+
+@media (max-width: 991px){
+ .UI header .logo{
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 1.4em;
+  text-decoration: none;
+  margin-left: 20%;
+}
+ .content h2{
+    color: #fff;
+    font-size: 2em;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+ }
+ .content p{
+    color: #fff;
+    font-size: 2em;
+    position: absolute;
+    top: 32%;
+    left: 20%;
+ }
+  .hi{
+    position: absolute;
+    top: 45%;
+  }
+  
+}
