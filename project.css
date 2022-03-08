@@ -142,7 +142,7 @@ body{
     left: 2%;
     background-color: #000000AA;
     width: 440px;
-    height: 1240px;
+    height: 1100px;
     box-shadow: 0 0 8px rgb(0 0 0 / 10%);
     border-radius: 50px;
   }
@@ -171,7 +171,7 @@ body{
     position: absolute;
     top: 5%;
     text-align: center;
-    left: -73%;
+    left: -50%;
   }
   .about3{
     color: #fff;
@@ -180,7 +180,7 @@ body{
     position: absolute;
     top: 5%;
     text-align: center;
-    left: -73%;
+    left: -50%;
   }
   .about4{
     color: #fff;
@@ -189,7 +189,7 @@ body{
     position: absolute;
     top: 5%;
     text-align: center;
-    left: -73%;
+    left: -50%;
   }
   
 }
