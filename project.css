@@ -107,6 +107,8 @@ body{
    left: 0;
     top: 0;
    position: absolute;
+    width: 440px;
+    height: 600px;
   }
   .images{
     position: absolute;
@@ -114,8 +116,8 @@ body{
     top: 100%;
     left: 2%;
     background-color: #000000AA;
-    width: 800px;
-    height: 440px;
+    width: 440px;
+    height: 1240px;
     box-shadow: 0 0 8px rgb(0 0 0 / 10%);
     border-radius: 50px;
   }
