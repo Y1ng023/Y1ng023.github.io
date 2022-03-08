@@ -103,9 +103,9 @@ body{
     top: 32%;
     left: 22%;
  }
-  .hi{
-    position: absolute;
-    top: 53%;
+  .image{
+   left: -10%;
+   position: absolute;
   }
   
 }
