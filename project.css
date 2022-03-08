@@ -73,6 +73,18 @@ body{
   border-radius: 50px;
 }
 
+.images2{
+  position: absolute;
+  display: block;
+  top: 18%;
+  left: 35%;
+  background-color: #000000AA;
+  width: 800px;
+  height: 440px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  border-radius: 50px;
+}
+
 .about{
  color: #fff; 
  font-size: 1.5em;
@@ -146,6 +158,18 @@ body{
     box-shadow: 0 0 8px rgb(0 0 0 / 10%);
     border-radius: 50px;
   }
+  .images2{
+    position: absolute;
+    display: block;
+    top: 100%;
+    left: 2%;
+    background-color: #000000AA;
+    width: 440px;
+    height: 600px;
+    box-shadow: 0 0 8px rgb(0 0 0 / 10%);
+    border-radius: 50px;
+  }
+  
   .about{
     color: #fff;
     font-size: 1.5em;
@@ -193,6 +217,10 @@ body{
   }
   .hi{
    position: absolute;
+   left: 28%;
+  }
+  .hi2{
+   position:absolute;
    left: 28%;
   }
   
