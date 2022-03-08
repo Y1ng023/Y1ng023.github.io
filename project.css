@@ -104,8 +104,20 @@ body{
     left: 22%;
  }
   .image{
-   left: -10%;
+   left: 0;
+    top: 0;
    position: absolute;
+  }
+  .images{
+    position: absolute;
+    display: block;
+    top: 100%;
+    left: 2%;
+    background-color: #000000AA;
+    width: 800px;
+    height: 440px;
+    box-shadow: 0 0 8px rgb(0 0 0 / 10%);
+    border-radius: 50px;
   }
   
 }
