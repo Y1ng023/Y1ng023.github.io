@@ -220,8 +220,7 @@ body{
    left: 28%;
   }
   .hi2{
-   position:absolute;
-   left: 45%;
+   margin-left: 60px;
   }
   .thanks{
    position: absolute;
