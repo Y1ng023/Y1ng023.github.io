@@ -192,5 +192,9 @@ body{
     text-align: center;
     left: -50%;
   }
+  .hi{
+   position: absolute;
+   left: 50%;
+  }
   
 }
